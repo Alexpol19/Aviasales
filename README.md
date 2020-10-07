@@ -4,8 +4,11 @@
 
 ## How to install
 ### In the project directory you can run
-```bash npm install
-
+```bash 
+npm install
+```
 ## How to start 
 ### In the project directory you can run
+```bash 
 npm start
+```
