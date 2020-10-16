@@ -23,3 +23,10 @@ npm install
 ```bash 
 npm start
 ```
+
+
+## Some Images:
+1.Pc version
+![PC](https://github.com/Alexpol19/Aviasales/blob/main/Aviasales.png)
+2.Mobile version
+![Mobile](https://github.com/Alexpol19/Aviasales/blob/main/AviasalesMobile.png)
